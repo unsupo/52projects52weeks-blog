@@ -73,7 +73,7 @@ Then I thought about visualizing it using a 3D library.  I started working with
 
 
 
-<!-- wp:image {"id":43,"width":331,"height":337,"className":"is-resized"} --><figure class="wp-block-image is-resized">
+<!-- wp:image {"id":43,"width":331,"height":337} --><figure class="wp-block-image is-resized">
 
 <img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="331" height="337" /><figcaption>My THREE.js attempt at a Rubik's cube</figcaption></figure> <!-- /wp:image -->
 
