@@ -17,13 +17,13 @@ This concept is one I have been thinking up for a while now, to solve a rubix cu
 
 <!-- wp:paragraph -->
 
-The Rubik Cube (not Rubix Cube like i previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million rubik cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond rubik cube created by Diamond Cutters International.
+The Rubik Cube (not Rubix Cube like I previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million rubik's cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik's cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond rubik's cube created by Diamond Cutters International.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-The Rubik Cube has 43,252,003,274,489,856,000 possible orientations for the cube.  Which if you had one cube for each of the possibilities, you could layer the surface of the earth 275 times with them.  With so many possibilites, there is a good chance that by scrambling your Rubik cube now, you’re creating a unique scramble that has never existed in the history of the Rubik cube.
+The Rubik Cube has 43,252,003,274,489,856,000 possible orientations for the cube.  Which if you had one cube for each of the possibilities, you could layer the surface of the earth 275 times with them.  With so many possibilites, there is a good chance that by scrambling your Rubik's cube now, you’re creating a unique scramble that has never existed in the history of the Rubik's cube.
 
 <!-- /wp:paragraph -->
 
@@ -35,13 +35,13 @@ Because of the large number of permutations the Rubik Cube has, it took many yea
 
 <!-- wp:paragraph -->
 
-I decided to first learn how to solve the Rubik cube by hand and then translate it to a java program.  I learned to solve the Rubik cube using this website <http://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks-cube-solution-overview> which i liked because it seemed straight forward and had simple illistrations.  The only issue with this site is the constant pop ups. The hardest part was memorizing the algorithms.  Learning when to apply the algorithm wasn’t all that hard for me as it seemed straightforward and it ended up working out in the end anyways if i messed up.  See below for my simplified steps of the simple solving the cube by hand shown in the link.
+I decided to first learn how to solve the Rubik's cube by hand and then translate it to a java program.  I learned to solve the Rubik's cube using this website <http://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks-cube-solution-overview> which I liked because it seemed straight forward and had simple illistrations.  The only issue with this site is the constant pop ups. The hardest part was memorizing the algorithms.  Learning when to apply the algorithm wasn’t all that hard for me as it seemed straightforward and it ended up working out in the end anyways if I messed up.  See below for my simplified steps of the simple solving the cube by hand shown in the link.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-I started out by representing the cube as a 2D array where each face was the first dimension and each cube on that face was the second.  Then to better represent it i developed the print method which printed the cube like this:
+I started out by representing the cube as a 2D array where each face was the first dimension and each cube on that face was the second.  Then to better represent it I developed the print method which printed the cube like this:
 
 <!-- /wp:paragraph -->
 
@@ -51,19 +51,19 @@ I started out by representing the cube as a 2D array where each face was the fir
 
 <!-- wp:paragraph -->
 
-Then i developed each rotation as a swapping of 4 faces and a rotation of one face.  That was manually determined, including reverse rotations.
+Then I developed each rotation as a swapping of 4 faces and a rotation of one face.  That was manually determined, including reverse rotations.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-Then i thought about visualizing it using a 3D library.  I started working with THREE.js and got quite far, but ran into a lot of issues and decided to move back to the numbered approach shown above due to time constraints of wanting to finish the solver.
+Then I thought about visualizing it using a 3D library.  I started working with THREE.js and got quite far, but ran into a lot of issues and decided to move back to the numbered approach shown above due to time constraints of wanting to finish the solver.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":43,"width":239,"height":243} --><figure class="wp-block-image is-resized">
 
-<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="239" height="243" /><figcaption>My THREE.js attempt at a rubik cube</figcaption></figure> <!-- /wp:image -->
+<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="239" height="243" /><figcaption>My THREE.js attempt at a rubik's cube</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
@@ -73,19 +73,19 @@ I started out wanting to use A* to solve the Rubik Cube, but decided to solve it
 
 <!-- wp:paragraph -->
 
-Solving it using human steps would turn out to be a great teacher in what not to do for me.  I know of TDD, but when i’m over enthusiastic or overconfident i elect to skip it and move right into coding.  This would be a huge issue for me as when bugs arose and i went back to fix them i would create bugs in other parts of the code and then have to go back and fix those again over and over again.  This would not have happened with proper TDD. 
+Solving it using human steps would turn out to be a great teacher in what not to do for me.  I know of TDD, but when i’m over enthusiastic or overconfident I elect to skip it and move right into coding.  This would be a huge issue for me as when bugs arose and I went back to fix them I would create bugs in other parts of the code and then have to go back and fix those again over and over again.  This would not have happened with proper TDD. 
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-I also learned how important consistency is.  In my code i often switch between color and face, color is the 10’s digit shown the 2D cube above and face is color -1.  This was very confusing as i went in to debug the code and couldn’t remember if i was referencing the color or the face in that scenario. Proper code comments and sticking to a consistent scheme would have fixed this issue.
+I also learned how important consistency is.  In my code I often switch between color and face, color is the 10’s digit shown the 2D cube above and face is color -1.  This was very confusing as I went in to debug the code and couldn’t remember if I was referencing the color or the face in that scenario. Proper code comments and sticking to a consistent scheme would have fixed this issue.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-I did finish the algorithm and it is very fast, solving any cube i give it in just tens of nanoseconds.  However, that is the only compliment i can give it. The solver averages hundreds of moves to solve most cubes with some as few as 60 and some as much as 1200 moves.  Both the 60 and the 1200 are far more than God’s Number of just 20. 
+I did finish the algorithm and it is very fast, solving any cube I give it in just tens of nanoseconds.  However, that is the only compliment I can give it. The solver averages hundreds of moves to solve most cubes with some as few as 60 and some as much as 1200 moves.  Both the 60 and the 1200 are far more than God’s Number of just 20. 
 
 <!-- /wp:paragraph -->
 
@@ -97,7 +97,7 @@ All in all, a thousand lines of code and probably that many strands of hair pull
 
 <!-- wp:paragraph -->
 
-From here, in the future i’ll visualize the cube and go back and conquer THREE.js as well as implement a 20 move solver.  Then i can move onto openCV to try and capture the colors of each face using your camera so you won’t have to input them one by one.  Then lastly create a machine which solves the cube.
+From here, in the future i’ll visualize the cube and go back and conquer THREE.js as well as implement a 20 move solver.  Then I can move onto openCV to try and capture the colors of each face using your camera so you won’t have to input them one by one.  Then lastly create a machine which solves the cube.
 
 <!-- /wp:paragraph -->
 
@@ -121,7 +121,7 @@ If you'd like to view the source code visit: <https://github.com/unsupo/RubixCub
 
 <!-- wp:paragraph -->
 
-** **The below is my simplified steps, but if you want pictures then go to the link i posted above.
+** **The below is my simplified steps, but if you want pictures then go to the link I posted above.
 
 <!-- /wp:paragraph -->
 
@@ -181,7 +181,7 @@ The last step is to repeat the **R’ D’ R D **algorithm.  Line up the top ri
 
 <!-- wp:paragraph -->
 
-I then solved a scrambled cube a few times using this method and then deliberately watched the pieces’ position that was in questions to help me memorize the algorithms.  For instance for R’ D’ R D i watched the white piece move around each time i performed this algorithm until it reached its final destination. Then i solved a cube with as many algorithms i could remember up to that point and then looked up the one i had forgotten and repeated until i had all of them memorized.  Then once a day i solved the cube once for 3 days to verify i hadn’t forgotten it over night.
+I then solved a scrambled cube a few times using this method and then deliberately watched the pieces’ position that was in questions to help me memorize the algorithms.  For instance for R’ D’ R D I watched the white piece move around each time I performed this algorithm until it reached its final destination. Then I solved a cube with as many algorithms I could remember up to that point and then looked up the one I had forgotten and repeated until I had all of them memorized.  Then once a day I solved the cube once for 3 days to verify I hadn’t forgotten it over night.
 
 <!-- /wp:paragraph -->
 
