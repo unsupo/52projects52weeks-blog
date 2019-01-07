@@ -5,19 +5,19 @@ author: jarndt
 post_excerpt: ""
 layout: post
 permalink: >
-  https://52projects52weeks.com/2019/01/07/rubik-cube-solver-using-java/
+  https://52projects52weeks.com/2019/01/07/Rubik-cube-solver-using-java/
 published: true
 post_date: 2019-01-07 06:47:54
 ---
 <!-- wp:paragraph -->
 
-This concept is one I have been thinking up for a while now, to solve a rubik's cube using a java program.  However this project has been both frustrating, eye-opening and interesting all at the same time, which has opened my eyes to the power of consistency and Test Driven Development (TDD).  
+This concept is one I have been thinking up for a while now, to solve a Rubik's cube using a java program.  However this project has been both frustrating, eye-opening and interesting all at the same time, which has opened my eyes to the power of consistency and Test Driven Development (TDD).  
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-The Rubik's Cube (not Rubix Cube like I previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million rubik's cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik's cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond rubik's cube created by Diamond Cutters International.
+The Rubik's Cube (not Rubix Cube like I previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million Rubik's cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik's cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond Rubik's cube created by Diamond Cutters International.
 
 <!-- /wp:paragraph -->
 
@@ -35,7 +35,7 @@ Because of the large number of permutations the Rubik Cube has, it took many yea
 
 <!-- wp:paragraph -->
 
-I decided to first learn how to solve the Rubik's cube by hand and then translate it to a java program.  I learned to solve the Rubik's cube using this website <http://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks-cube-solution-overview> which I liked because it seemed straight forward and had simple illistrations.  The only issue with this site is the constant pop ups. The hardest part was memorizing the algorithms.  Learning when to apply the algorithm wasn’t all that hard for me as it seemed straightforward and it ended up working out in the end anyways if I messed up.  See below for my simplified steps of the simple solving the cube by hand shown in the link.
+I decided to first learn how to solve the Rubik's cube by hand and then translate it to a java program.  I learned to solve the Rubik's cube using this website <http://www.learnhowtosolveaRubikscube.com/how-to-solve-a-Rubiks-cube-solution-overview> which I liked because it seemed straight forward and had simple illistrations.  The only issue with this site is the constant pop ups. The hardest part was memorizing the algorithms.  Learning when to apply the algorithm wasn’t all that hard for me as it seemed straightforward and it ended up working out in the end anyways if I messed up.  See below for my simplified steps of the simple solving the cube by hand shown in the link.
 
 <!-- /wp:paragraph -->
 
@@ -63,7 +63,7 @@ Then I thought about visualizing it using a 3D library.  I started working with
 
 <!-- wp:image {"id":43,"width":239,"height":243} --><figure class="wp-block-image is-resized">
 
-<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="239" height="243" /><figcaption>My THREE.js attempt at a rubik's cube</figcaption></figure> <!-- /wp:image -->
+<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="239" height="243" /><figcaption>My THREE.js attempt at a Rubik's cube</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
@@ -103,7 +103,7 @@ From here, in the future i’ll visualize the cube and go back and conquer THREE
 
 <!-- wp:paragraph -->
 
-If you'd like to view the source code visit: <https://github.com/unsupo/Rubik'sCube>
+If you'd like to view the source code visit: <https://github.com/unsupo/RubixCube>
 
 <!-- /wp:paragraph -->
 
@@ -121,7 +121,7 @@ If you'd like to view the source code visit: <https://github.com/unsupo/Rubik'sC
 
 <!-- wp:paragraph -->
 
-** **The below is my simplified steps, but if you want pictures then go to the link I posted above.
+The below is my simplified steps, but if you want pictures then go to the link I posted above.
 
 <!-- /wp:paragraph -->
 
@@ -145,37 +145,37 @@ The next step is solving the white cross, which is simply moving the white piece
 
 <!-- wp:paragraph -->
 
-The next step is solving the white face.  This is accomplished by finding the corner pieces either on the white face side or the yellow face side with one white and one of the other matching faces in that corner then apply **R’ D’ R D **until the piece is in the correct position
+The next step is solving the white face.  This is accomplished by finding the corner pieces either on the white face side or the yellow face side with one white and one of the other matching faces in that corner then apply **R’ D’ R D** until the piece is in the correct position
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-Then solve the middle section by finding a top edge which shares either the left or right face and the correct face’s colors, then use one algorithm to move it to the left and another to move it to the right.  They are the same just opposites. **U R Ui Ri Ui Fi U F **right and **Ui Li U L U F Ui Fi **left
+Then solve the middle section by finding a top edge which shares either the left or right face and the correct face’s colors, then use one algorithm to move it to the left and another to move it to the right.  They are the same just opposites. **U R Ui Ri Ui Fi U F** right and **Ui Li U L U F Ui Fi** left
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-Then once all the first two sections are solved then solve the top yellow cross.  This is accomplished by apply this algorithm: **F R U Ri Ui Fi **one two or three times depending on the position of the yellow cubes on top.  A line then once, just line it up so that the line is horizontal. If an L shape then line it up in an upside down L shape and do the algorithm, this needs two, but you might have to flip the cube.  If neither of these two cases then perform the algorithm and you should get one of the other cases and then perform it with that cases specifications.
+Then once all the first two sections are solved then solve the top yellow cross.  This is accomplished by apply this algorithm: **F R U Ri Ui Fi** one two or three times depending on the position of the yellow cubes on top.  A line then once, just line it up so that the line is horizontal. If an L shape then line it up in an upside down L shape and do the algorithm, this needs two, but you might have to flip the cube.  If neither of these two cases then perform the algorithm and you should get one of the other cases and then perform it with that cases specifications.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-Now that you have a yellow cross up top and the bottom two sections solved, we need to align the top yellow cross to match the faces.  This is done using this algorithm: **R U Ri U R U U Ri . . **Perform it while looking at a correct face, this rotates the other 3 faces until all 4 are correct.
+Now that you have a yellow cross up top and the bottom two sections solved, we need to align the top yellow cross to match the faces.  This is done using this algorithm: **R U Ri U R U U Ri**. Perform it while looking at a correct face, this rotates the other 3 faces until all 4 are correct.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-Now that the yellow cross has all 4 faces correct and the bottom two sections are solved, then you can align the yellow corners up.  Once again this rotates through the other corners, except for the top right one: **U R Ui Li U Ri Ui L **.  Because of this if none are correct, perform it once then flip to a face with a correct top right corner piece and perform it again until all 4 corners are in the correct spot but  not necessarily in the correct position.
+Now that the yellow cross has all 4 faces correct and the bottom two sections are solved, then you can align the yellow corners up.  Once again this rotates through the other corners, except for the top right one: **U R Ui Li U Ri Ui L**.  Because of this if none are correct, perform it once then flip to a face with a correct top right corner piece and perform it again until all 4 corners are in the correct spot but  not necessarily in the correct position.
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-The last step is to repeat the **R’ D’ R D **algorithm.  Line up the top right corner and perform this algorithm until the yellow piece is on top, keep in mind this will look like it’s messing up the cube, but in fact it will all fix itself in the end.  Then flip only the top until a corner piece doesn’t have yellow on top and do the algorithm again and repeat. Once the last one has been flipped yellow up, then the whole cube is solved. Just orient the top and bottom to there correct color.
+The last step is to repeat the **R’ D’ R D** algorithm.  Line up the top right corner and perform this algorithm until the yellow piece is on top, keep in mind this will look like it’s messing up the cube, but in fact it will all fix itself in the end.  Then flip only the top until a corner piece doesn’t have yellow on top and do the algorithm again and repeat. Once the last one has been flipped yellow up, then the whole cube is solved. Just orient the top and bottom to there correct color.
 
 <!-- /wp:paragraph -->
 
