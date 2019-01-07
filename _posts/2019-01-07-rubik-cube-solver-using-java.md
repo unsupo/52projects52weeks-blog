@@ -5,13 +5,19 @@ author: jarndt
 post_excerpt: ""
 layout: post
 permalink: >
-  https://52projects52weeks.com/2019/01/07/Rubik-cube-solver-using-java/
+  https://52projects52weeks.com/2019/01/07/rubik-cube-solver-using-java/
 published: true
 post_date: 2019-01-07 06:47:54
 ---
 <!-- wp:paragraph -->
 
 This concept is one I have been thinking up for a while now, to solve a Rubik's cube using a java program.  However this project has been both frustrating, eye-opening and interesting all at the same time, which has opened my eyes to the power of consistency and Test Driven Development (TDD).  
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+If you want a great Rubik's Cube solver, visit this site: <https://rubiks-cube-solver.com/>
 
 <!-- /wp:paragraph -->
 
@@ -45,9 +51,13 @@ I started out by representing the cube as a 2D array where each face was the fir
 
 <!-- /wp:paragraph -->
 
+
+
 <!-- wp:image {"id":42} --><figure class="wp-block-image">
 
 <img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-06-at-11.42.10-PM.png" alt="" class="wp-image-42" /></figure> <!-- /wp:image -->
+
+
 
 <!-- wp:paragraph -->
 
@@ -61,9 +71,13 @@ Then I thought about visualizing it using a 3D library.  I started working with
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":43,"width":239,"height":243} --><figure class="wp-block-image is-resized">
 
-<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="239" height="243" /><figcaption>My THREE.js attempt at a Rubik's cube</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":43,"width":331,"height":337,"className":"is-resized"} --><figure class="wp-block-image is-resized">
+
+<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="331" height="337" /><figcaption>My THREE.js attempt at a Rubik's cube</figcaption></figure> <!-- /wp:image -->
+
+
 
 <!-- wp:paragraph -->
 
@@ -73,7 +87,7 @@ I started out wanting to use A* to solve the Rubik Cube, but decided to solve it
 
 <!-- wp:paragraph -->
 
-Solving it using human steps would turn out to be a great teacher in what not to do for me.  I know of TDD, but when i’m over enthusiastic or overconfident I elect to skip it and move right into coding.  This would be a huge issue for me as when bugs arose and I went back to fix them I would create bugs in other parts of the code and then have to go back and fix those again over and over again.  This would not have happened with proper TDD. 
+Solving it using human steps would turn out to be a great teacher in what not to do for me.  I know of TDD, but when i’m over enthusiastic or overconfident I elect to skip it and move right into coding.  This would be a huge issue for me as when bugs arose and I went back to fix them I would create bugs in other parts of the code and then have to go back and fix those again over and over again.  This would not have happened with proper TDD.
 
 <!-- /wp:paragraph -->
 
@@ -85,7 +99,7 @@ I also learned how important consistency is.  In my code I often switch between
 
 <!-- wp:paragraph -->
 
-I did finish the algorithm and it is very fast, solving any cube I give it in just tens of nanoseconds.  However, that is the only compliment I can give it. The solver averages hundreds of moves to solve most cubes with some as few as 60 and some as much as 1200 moves.  Both the 60 and the 1200 are far more than God’s Number of just 20. 
+I did finish the algorithm and it is very fast, solving any cube I give it in just tens of nanoseconds.  However, that is the only compliment I can give it. The solver averages hundreds of moves to solve most cubes with some as few as 60 and some as much as 1200 moves.  Both the 60 and the 1200 are far more than God’s Number of just 20.
 
 <!-- /wp:paragraph -->
 
