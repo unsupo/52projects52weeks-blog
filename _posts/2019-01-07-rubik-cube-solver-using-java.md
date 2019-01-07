@@ -11,13 +11,13 @@ post_date: 2019-01-07 06:47:54
 ---
 <!-- wp:paragraph -->
 
-This concept is one I have been thinking up for a while now, to solve a rubix cube using a java program.  However this project has been both frustrating, eye-opening and interesting all at the same time, which has opened my eyes to the power of consistency and Test Driven Development (TDD).  
+This concept is one I have been thinking up for a while now, to solve a rubik's cube using a java program.  However this project has been both frustrating, eye-opening and interesting all at the same time, which has opened my eyes to the power of consistency and Test Driven Development (TDD).  
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-The Rubik Cube (not Rubix Cube like I previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million rubik's cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik's cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond rubik's cube created by Diamond Cutters International.
+The Rubik's Cube (not Rubix Cube like I previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million rubik's cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik's cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond rubik's cube created by Diamond Cutters International.
 
 <!-- /wp:paragraph -->
 
@@ -103,7 +103,7 @@ From here, in the future i’ll visualize the cube and go back and conquer THREE
 
 <!-- wp:paragraph -->
 
-If you'd like to view the source code visit: <https://github.com/unsupo/RubixCube>
+If you'd like to view the source code visit: <https://github.com/unsupo/Rubik'sCube>
 
 <!-- /wp:paragraph -->
 
