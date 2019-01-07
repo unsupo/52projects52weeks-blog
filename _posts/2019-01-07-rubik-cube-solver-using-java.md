@@ -103,7 +103,7 @@ From here, in the future i’ll visualize the cube and go back and conquer THREE
 
 <!-- wp:paragraph -->
 
-
+If you'd like to view the source code visit: <https://github.com/unsupo/RubixCube>
 
 <!-- /wp:paragraph -->
 
