@@ -21,11 +21,23 @@ If you want a great Rubik's Cube solver, visit this site: <https://rubiks-cube-s
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## Brief History
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 
 The Rubik's Cube (not Rubix Cube like I previously thought) was developed by Ernő Rubik in 1974.  Rubik was a Hungarian sculptor and professor of architecture and wanted a way to move an entire structure independently without the entire structure falling apart.  He then learned this architecture experiment would make a fun puzzle game, thus he called it the Magic Cube and licensed it to be sold by Ideal Toy Company in 1980. The magic cube was renamed a more iconic brandable name the Rubik Cube in that same year after it’s inventor.  This sparked a worldwide crazy causing it to be considered the world's’ best selling toy. In 2009 an estimated 350 million Rubik's cube’s have been sold worldwide. Speedcubing started very early in its history as well as solutions. In fact, the top selling book of 1981 was The Simple Solution to Rubik's Cube by James G. Nourse, selling over 6 million copies.  Not to mention Rubik, the Amazing Cube cartoon show that was developed. But, by the end of 1983 the craze was reported as dead, cubes were still being sold but it would pick back up until the early 2000’s.  This return of the Rubik's cube was given credit to by internet video sites like YouTube. Rubik’s patent expired in 2000 and thus several knockoff brands were created, one of which fetch for 2.5 million dollars which is a fully functional diamond Rubik's cube created by Diamond Cutters International.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## God's Number
+
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 
@@ -38,6 +50,12 @@ The Rubik Cube has 43,252,003,274,489,856,000 possible orientations for the cube
 Because of the large number of permutations the Rubik Cube has, it took many years to discover God’s Number or the maximum number of moves to solve any cube configuration.  David Singmaster in 1979 simply counted the maximum number of moves for his algorithm at 277, then soon after another algorithm was found with a maximum of 160 and then soon after that another was found with no more than 94.  The next year Morwen Thistlethwaite in 1980 showed that his algorithm required no more than 85 then he improved it to 80 then to 63 and finally to 52 by 1981. In 2006 this max was lowered to 26 then 27 in 2007 then 22 in 2008 and finally in 2010 God’s number was found to be 20 as shown by supercomputers. Kociemba and Koft then later developed algorithms that are what modern Rubik Cube solvers use today which generate no more than 20 moves for any cube.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## Solving the Cube with Java
+
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 
@@ -121,17 +139,12 @@ If you'd like to view the source code visit: <https://github.com/unsupo/RubixCub
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:heading -->
+
+## **Solving the Cube**  
 
 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-**Solving the Cube**
-
-<!-- /wp:paragraph -->
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 
