@@ -115,6 +115,12 @@ I also learned how important consistency is.  In my code I often switch between
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## The Results
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 
 I did finish the algorithm and it is very fast, solving any cube I give it in just tens of nanoseconds.  However, that is the only compliment I can give it. The solver averages hundreds of moves to solve most cubes with some as few as 60 and some as much as 1200 moves.  Both the 60 and the 1200 are far more than God’s Number of just 20.
