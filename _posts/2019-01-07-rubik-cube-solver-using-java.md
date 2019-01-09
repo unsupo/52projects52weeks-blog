@@ -55,7 +55,7 @@ I started out by representing the cube as a 2D array where each face was the fir
 
 <!-- wp:image {"id":42} --><figure class="wp-block-image">
 
-<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-06-at-11.42.10-PM.png" alt="" class="wp-image-42" /></figure> <!-- /wp:image -->
+<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-06-at-11.42.10-PM.png" alt="Java printout to console of Rubik's Cube number positions" class="wp-image-42" /></figure> <!-- /wp:image -->
 
 
 
@@ -75,7 +75,7 @@ Then I thought about visualizing it using a 3D library.  I started working with
 
 <!-- wp:image {"id":43,"width":331,"height":337} --><figure class="wp-block-image is-resized">
 
-<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="" class="wp-image-43" width="331" height="337" /><figcaption>My THREE.js attempt at a Rubik's cube</figcaption></figure> <!-- /wp:image -->
+<img src="https://52projects52weeks.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-02-at-9.51.30-PM.png" alt="3D Rendering of a Rubik's Cube " class="wp-image-43" width="331" height="337" /><figcaption>My THREE.js attempt at a Rubik's cube</figcaption></figure> <!-- /wp:image -->
 
 
 
