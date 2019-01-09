@@ -8,4 +8,12 @@ permalink: https://52projects52weeks.com/about/
 published: true
 post_date: 2018-12-23 23:07:56
 ---
-You might be an artist who would like to introduce yourself and your work here or maybe you’re a business with a mission to describe.
+52 Projects in 52 Weeks, that is our mission here.  By simply pushing ourselves to achieve a project a week, who knows what we can accomplish.  Anything can be a project, no matter how large or small, how complex or trivial, we just need to improve ourselves from that project.  That is what we're all about. 
+
+This blog will hopefully help others who seek a guide to the projects we work on.
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
