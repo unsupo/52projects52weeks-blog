@@ -115,7 +115,13 @@ Here's how to restring it. First, choose your strings. I just decided to wing it
 
 <!-- wp:paragraph -->
 
-Now it's time to remove the old strings. Every guitar is a little different, but it starts the same: turn each of the tuning pegs counterclockwise until the strings are loose enough for you to pull them through the holes in each peg. Easy peasy. Now we need to go down to the hole in the body of the guitar, where the strings attach to the body. Again, this Washburn is older than your mom so it took some doing, but taking a look at how the strings are connected to your guitar is simple enough. But for me, this part sucked. I had to use pliers to get the damn things out. Depending on the make and model of your instrument, you may need a screwdriver - just be very careful not to scratch or break it.
+Now it's time to remove the old strings. Every guitar is a little different, but it starts the same: turn each of the tuning pegs counterclockwise until the strings are loose enough for you to pull them through the holes in each peg. Easy peasy.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Now we need to go down to the hole in the body of the guitar, where the strings attach to the body. Again, this Washburn is older than your mom so it took some doing, but taking a look at how the strings are connected to your guitar is simple enough. But for me, this part sucked. I had to use pliers to get the damn things out. Depending on the make and model of your instrument, you may need a screwdriver - just be very careful not to scratch or break it.
 
 <!-- /wp:paragraph -->
 
