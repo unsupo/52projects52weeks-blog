@@ -171,9 +171,17 @@ Once you have the strings out, open your new pack and sort them by size. The lar
 
 <!-- wp:paragraph -->
 
-Now you just slide the strings into the holes in the tuning pegs, and tighten tighten tighten until they're tense! Do a couple strums because it's fun, and then it's time to tune it. This part is easy, since there are several websites and apps that can help you do this (I used [this one][1]). Just follow the instructions, click on each of the strings in the app/site, and tune your guitar accordingly until the notes match. This can be a little more difficult than it sounds, but it's not too bad. Note that there are several different tunings you can use, but the standard goes: low E, A, D, G, B, and high E, from lowest to highest.
+Now you just slide the strings into the holes in the tuning pegs (pictured below), and tighten tighten tighten until they're tense and use some wire cutters to trim off the excess string. Do a couple strums because it's fun, and then it's time to tune it. This part is easy, since there are several websites and apps that can help you do this (I used [this one][1]). Just follow the instructions, click on each of the strings in the app/site, and tune your guitar accordingly until the notes match. This can be a little more difficult than it sounds, but it's not too bad. Note that there are several different tunings you can use, but the standard goes: low E, A, D, G, B, and high E, from lowest to highest.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":121,"align":"center"} -->
+
+<div class="wp-block-image">
+  <figure class="aligncenter"><img src="https://52projects52weeks.com/wp-content/uploads/2019/01/stringed.jpg" alt="" class="wp-image-121" /></figure>
+</div>
+
+<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
