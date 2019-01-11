@@ -125,6 +125,12 @@ Now we need to go down to the hole in the body of the guitar, where the strings 
 
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+
+(The guitar I mean. But I hope you don't break your screwdriver too.)
+
+<!-- /wp:paragraph -->
+
 <!-- wp:image {"id":108,"align":"center","width":419,"height":558} -->
 
 <div class="wp-block-image">
