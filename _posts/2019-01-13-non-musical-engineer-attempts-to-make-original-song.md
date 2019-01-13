@@ -183,6 +183,18 @@ Hopefully this might create a more structured song.
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+
+## Code
+
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+
+<pre class="wp-block-code"><code>&lt;script src="https://gist.github.com/unsupo/e98b01cee320b64590cada91bbb67813.js">&lt;/script></code></pre>
+
+<!-- /wp:code -->
+
  [1]: https://www.reddit.com/r/WeAreTheMusicMakers/comments/3ajwe4/the_largest_midi_collection_on_the_internet/
  [2]: https://mido.readthedocs.io/en/latest/
  [3]: https://github.com/vishnubob/python-midi
