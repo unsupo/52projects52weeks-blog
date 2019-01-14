@@ -8,4 +8,4 @@ permalink: https://52projects52weeks.com/
 published: true
 post_date: 2018-12-23 23:07:56
 ---
-Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time.
+52 Projects 52 Weeks is goal to do a project each week of the year.  A project may be anything with the main goal of just improving and learning.
