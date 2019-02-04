@@ -74,7 +74,7 @@ When it comes to gradually waking up earlier and earlier, that doesn't work beca
 
 <!-- wp:paragraph -->
 
-I've never had issue with going to the gym because i've regretted it or anything. My issue is with waking up in general, I love being at the gym.
+I've never had issue with going to the gym because i've regretted it or anything. My issue is with waking up in general, I love being at the gym. When I finally do get out of bed I do say "Aw hell yeah, i get to go to the gym" and when I sleep in or feel sick or can't go to the gym I regret it and wish I could have gone.
 
 <!-- /wp:paragraph -->
 
