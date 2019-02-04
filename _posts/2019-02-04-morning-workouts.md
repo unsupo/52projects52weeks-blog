@@ -44,8 +44,37 @@ The solution was simple, wake up earlier in the mornings to go to the gym.  Now
 
 <!-- wp:paragraph -->
 
-I usually do my own kind of bro splits, or in other words, Mondays and Thursdays are push days, Tuesdays and Fridays are pull days with Wednesdays being let days.  I have always struggled with convincing myself to do Wednesday leg days.   
+I usually do my own kind of bro splits, or in other words, Mondays and Thursdays are push days, Tuesdays and Fridays are pull days with Wednesdays being let days.  I have always struggled with convincing myself to do Wednesday leg days. 
 
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+I know what you're going to say, "Just wake up. It's not that hard, i wake up at <insert absurdly early time here>". Some wake up a lot earlier for work for instance, but for me it's not that simple. It's easier to wake up when you have to wake up, not as easy when you just want to wake up for something. 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+I've tried all kinds of solutions in the past for waking up. I've tried setting up multiple alarms, i've tried putting many different alarms throughout the house to force me to get out of bed, i've tried gradually waking up by starting 15 minutes earlier than my normal waking up time. Unfortunately none of these work. 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+When i set multiple alarms or many alarms throughout the house, i'd simple turn them all off and climb back in bed, plus many alarms throughout the house would be annoying for my wife and wake up my baby. 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+When it comes to gradually waking up earlier and earlier, that doesn't work because I'll be frustrated that i woke up earlier without any real reason because i can't do anything 15 minutes earlier. I'll just fall back asleep and feel like i got less sleep for no reason.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+I've never had issue with going to the gym because i've regretted it or anything. My issue is with waking up in general, I love being at the gym.
 
 <!-- /wp:paragraph -->
 
@@ -129,7 +158,7 @@ Day 5 I skipped my workout again, I convinced myself I couldn’t be a zombie 3 
 
 <!-- wp:paragraph -->
 
-All in all, waking up and doing my workout is very difficult for me.  First I’m terrible at waking up so it takes me a very long time to finally get out of bed.  Secondly I seem to have more frequent stomach issues when i wake up early in the morning. Thirdly, I also don’t feel like i push myself as hard early in the morning.  And finally, I’m not acclimated to waking up early, so it’s very difficult to start. This leads me to feeling very tired throughout the day, causing me to be unmotivated to do it again the next day.  
+Unfortunately even the best made plans can be stopped by life, life just has a habit or messing things up. All in all, waking up and doing my workout is very difficult for me.  First I’m terrible at waking up so it takes me a very long time to finally get out of bed.  Secondly I seem to have more frequent stomach issues when i wake up early in the morning. Thirdly, I also don’t feel like i push myself as hard early in the morning.  And finally, I’m not acclimated to waking up early, so it’s very difficult to start. This leads me to feeling very tired throughout the day, causing me to be unmotivated to do it again the next day.  
 
 
 <!-- /wp:paragraph -->
@@ -139,6 +168,12 @@ All in all, waking up and doing my workout is very difficult for me.  First I�
 ## Future
 
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+I will continue to try and wake up early in the morning. This may be tough, but I feel this method of jumping in the deep end and trying to swim will get easier over time. Eventually I might even become a morning person and my body will simply get up without even the need for an alarm.
+
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
