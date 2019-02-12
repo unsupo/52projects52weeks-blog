@@ -277,13 +277,7 @@ Lastly is metabolic stress.  This is simply put train beyond failure.  Do an e
 
 <!-- wp:paragraph -->
 
-The typical way to perform all workouts should be, explosively push up as fast as you can.  Then flex the muscle you’re targeting while holding it in position. Finally let it down slowly resisting the force of gravity the whole way down.  Then repeat.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-  
+The typical way to perform all workouts should be, explosively push up as fast as you can.  Then flex the muscle you’re targeting while holding it in position. Finally let it down slowly resisting the force of gravity the whole way down.  Then repeat.  
 
 
 <!-- /wp:paragraph -->
