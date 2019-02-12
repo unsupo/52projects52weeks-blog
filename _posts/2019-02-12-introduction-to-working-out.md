@@ -297,7 +297,8 @@ I plan to use this article as a building point for an exercise app.  I will uti
 
 <!-- wp:paragraph -->
 
-  
-
+The previous post in this series is [Morning Workouts][1]
 
 <!-- /wp:paragraph -->
+
+ [1]: https://52projects52weeks.com/2019/02/04/morning-workouts/
