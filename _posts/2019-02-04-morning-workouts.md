@@ -184,7 +184,14 @@ This is the first of a multipart post which will include me trying to get back i
 
 <!-- wp:paragraph -->
 
-The next post I’ll go over how week 2 went as well as what i’ve learned about for the most efficient way to gain muscle mass and hopefully achieve my lifelong goal of gaining a six pack!!!   
-
+The next post I’ll go over how week 2 went as well as what i’ve learned about for the most efficient way to gain muscle mass and hopefully achieve my lifelong goal of gaining a six pack!!! 
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The next post in this series is [Introduction To Working Out][1]
+
+<!-- /wp:paragraph -->
+
+ [1]: https://52projects52weeks.com/2019/02/12/introduction-to-working-out/
