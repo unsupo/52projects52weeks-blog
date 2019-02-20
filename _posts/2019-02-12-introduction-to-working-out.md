@@ -25,7 +25,7 @@ This is an introduction to working out and there are three main goals when worki
 
 <!-- wp:paragraph -->
 
-Depending on your overall goal you may want to mix up these 3 in different aspects.  Just keep in mind, your body is an efficiency machine. It will strive to make it’s life as easy it possibly can.  Your body doesn’t want to use good form for instance because it’s much easier not to, it’s that simple. 
+Depending on your overall goal you may want to mix up these 3 in different aspects.  Just keep in mind, your body is an efficiency machine. It will strive to make it’s life as easy it possibly can.  Your body doesn’t want to use good form for instance because it’s much instinctually easier not to, it’s that simple. 
 
 <!-- /wp:paragraph -->
 
